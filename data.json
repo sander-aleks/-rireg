@@ -1,0 +1,1046 @@
+[
+    {
+        "ariregistri_kood":16372442,
+        "nimi":"000 Holdings OÜ",
+        "yldandmed":{
+            "ettevotteregistri_nr":null,
+            "esmaregistreerimise_kpv":"23.11.2021",
+            "kustutamise_kpv":null,
+            "staatus":"R",
+            "staatus_tekstina":"Registrisse kantud",
+            "piirkond":5,
+            "piirkond_tekstina":"Tartu",
+            "piirkond_tekstina_pikk":"Tartu Maakohtu registriosakond",
+            "evks_registreeritud":null,
+            "evks_registreeritud_kande_kpv":null,
+            "oiguslik_vorm":"OÜ",
+            "oiguslik_vorm_nr":5,
+            "oiguslik_vorm_tekstina":"Osaühing",
+            "oigusliku_vormi_alaliik":null,
+            "oigusliku_vormi_alaliik_tekstina":"",
+            "asutatud_sissemakset_tegemata":true,
+            "loobunud_vorminouetest":null,
+            "on_raamatupidamiskohustuslane":false,
+            "tegutseb":null,
+            "tegutseb_tekstina":"Jah",
+            "staatused":[
+                {
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "staatus":"R",
+                    "staatus_tekstina":"Registrisse kantud",
+                    "algus_kpv":"23.11.2021"
+                }
+            ],
+            "arinimed":[
+                {
+                    "kirje_id":9864760,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "sisu":"000 Holdings OÜ",
+                    "algus_kpv":"23.11.2021",
+                    "lopp_kpv":null
+                }
+            ],
+            "aadressid":[
+                {
+                    "kirje_id":10461173,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":2,
+                    "riik":"AUS",
+                    "riik_tekstina":"Austraalia",
+                    "ehak":null,
+                    "ehak_nimetus":null,
+                    "tanav_maja_korter":"313A/133 GOULBURN STREET, Surry Hills, NSW",
+                    "aadress_ads__ads_oid":null,
+                    "aadress_ads__adr_id":null,
+                    "aadress_ads__ads_normaliseeritud_taisaadress":null,
+                    "aadress_ads__ads_normaliseeritud_taisaadress_tapsustus":null,
+                    "aadress_ads__koodaadress":null,
+                    "aadress_ads__adob_id":null,
+                    "aadress_ads__tyyp":null,
+                    "postiindeks":"2010",
+                    "algus_kpv":"01.02.2023",
+                    "lopp_kpv":null
+                }
+            ],
+            "kontaktisiku_aadressid":[
+                {
+                    "kirje_id":9864757,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "riik":"EST",
+                    "riik_tekstina":"Eesti",
+                    "ehak":"0298",
+                    "ehak_nimetus":"Kesklinna linnaosa, Tallinn, Harju maakond",
+                    "tanav_maja_korter":"Harju maakond, Tallinn, Kesklinna linnaosa, Ahtri tn 12",
+                    "aadress_ads__ads_oid":"ME00656588",
+                    "aadress_ads__adr_id":2113048,
+                    "aadress_ads__ads_normaliseeritud_taisaadress":"Harju maakond, Tallinn, Kesklinna linnaosa, Ahtri tn 12",
+                    "aadress_ads__ads_normaliseeritud_taisaadress_tapsustus":null,
+                    "aadress_ads__koodaadress":"377840298000005X600001EOT00000000",
+                    "aadress_ads__adob_id":null,
+                    "aadress_ads__tyyp":null,
+                    "postiindeks":"10151",
+                    "algus_kpv":"23.11.2021",
+                    "lopp_kpv":null
+                }
+            ],
+            "oiguslikud_vormid":[
+                {
+                    "kirje_id":9864754,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "sisu":"OÜ",
+                    "sisu_nr":5,
+                    "sisu_tekstina":"Osaühing",
+                    "algus_kpv":"23.11.2021",
+                    "lopp_kpv":null
+                }
+            ],
+            "kapitalid":[
+                {
+                    "kirje_id":9864758,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "kapitali_suurus":"2500.00",
+                    "kapitali_valuuta":"EUR",
+                    "kapitali_valuuta_tekstina":"euro",
+                    "algus_kpv":"23.11.2021",
+                    "lopp_kpv":null
+                }
+            ],
+            "majandusaastad":[
+                {
+                    "kirje_id":9864753,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "maj_aasta_algus":"01.01",
+                    "maj_aasta_lopp":"31.12",
+                    "algus_kpv":"23.11.2021",
+                    "lopp_kpv":null
+                }
+            ],
+            "pohikirjad":[
+                {
+                    "kirje_id":9864752,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "kinnitamise_kpv":"19.11.2021",
+                    "muutmise_kpv":null,
+                    "selgitus":null,
+                    "algus_kpv":"23.11.2021",
+                    "lopp_kpv":null,
+                    "sisaldab_erioigusi":false
+                }
+            ],
+            "markused_kaardil":[
+                {
+                    "kirje_id":10461174,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":2,
+                    "veerg_nr":6,
+                    "tyyp":"MARK",
+                    "tyyp_tekstina":"Märkus",
+                    "sisu":"Kanne on tehtud Äriregistri seaduse § 68 lõike 3 alusel",
+                    "algus_kpv":"01.02.2023",
+                    "lopp_kpv":null
+                }
+            ],
+            "sidevahendid":[
+                {
+                    "kirje_id":9864759,
+                    "liik":"EMAIL",
+                    "liik_tekstina":"Elektronposti aadress",
+                    "sisu":"me@karlssonandreas.com",
+                    "lopp_kpv":null,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1
+                }
+            ],
+            "teatatud_tegevusalad":[
+                {
+                    "kirje_id":9000591556,
+                    "emtak_kood":"73111",
+                    "emtak_tekstina":"Reklaamiagentuurid",
+                    "emtak_versioon":2,
+                    "emtak_versioon_tekstina":null,
+                    "nace_kood":"73.11",
+                    "on_pohitegevusala":true,
+                    "algus_kpv":"22.11.2021",
+                    "lopp_kpv":null
+                }
+            ],
+            "esitab_kasusaajad":true
+        }
+    },
+    {
+        "ariregistri_kood":12754230,
+        "nimi":"001 group OÜ",
+        "yldandmed":{
+            "ettevotteregistri_nr":null,
+            "esmaregistreerimise_kpv":"17.11.2014",
+            "kustutamise_kpv":null,
+            "staatus":"R",
+            "staatus_tekstina":"Registrisse kantud",
+            "piirkond":5,
+            "piirkond_tekstina":"Tartu",
+            "piirkond_tekstina_pikk":"Tartu Maakohtu registriosakond",
+            "evks_registreeritud":null,
+            "evks_registreeritud_kande_kpv":null,
+            "oiguslik_vorm":"OÜ",
+            "oiguslik_vorm_nr":5,
+            "oiguslik_vorm_tekstina":"Osaühing",
+            "oigusliku_vormi_alaliik":null,
+            "oigusliku_vormi_alaliik_tekstina":"",
+            "asutatud_sissemakset_tegemata":true,
+            "loobunud_vorminouetest":null,
+            "on_raamatupidamiskohustuslane":false,
+            "tegutseb":null,
+            "tegutseb_tekstina":"Jah",
+            "staatused":[
+                {
+                    "kaardi_piirkond":1,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "staatus":"R",
+                    "staatus_tekstina":"Registrisse kantud",
+                    "algus_kpv":"17.11.2014"
+                }
+            ],
+            "arinimed":[
+                {
+                    "kirje_id":5374975,
+                    "kaardi_piirkond":1,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "sisu":"001 group OÜ",
+                    "algus_kpv":"17.11.2014",
+                    "lopp_kpv":null
+                }
+            ],
+            "aadressid":[
+                {
+                    "kirje_id":7332823,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":3,
+                    "riik":"EST",
+                    "riik_tekstina":"Eesti",
+                    "ehak":"0176",
+                    "ehak_nimetus":"Haabersti linnaosa, Tallinn, Harju maakond",
+                    "tanav_maja_korter":"Õismäe tee 78-9",
+                    "aadress_ads__ads_oid":"ER01373351",
+                    "aadress_ads__adr_id":2182337,
+                    "aadress_ads__ads_normaliseeritud_taisaadress":"Harju maakond, Tallinn, Haabersti linnaosa, Õismäe tee 78-9",
+                    "aadress_ads__ads_normaliseeritud_taisaadress_tapsustus":null,
+                    "aadress_ads__koodaadress":"377840176000003X8000035J54CPR0000",
+                    "aadress_ads__adob_id":"6543897",
+                    "aadress_ads__tyyp":null,
+                    "postiindeks":"13513",
+                    "algus_kpv":"08.12.2017",
+                    "lopp_kpv":null
+                }
+            ],
+            "oiguslikud_vormid":[
+                {
+                    "kirje_id":5374967,
+                    "kaardi_piirkond":1,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "sisu":"OÜ",
+                    "sisu_nr":5,
+                    "sisu_tekstina":"Osaühing",
+                    "algus_kpv":"17.11.2014",
+                    "lopp_kpv":null
+                }
+            ],
+            "kapitalid":[
+                {
+                    "kirje_id":5374974,
+                    "kaardi_piirkond":1,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "kapitali_suurus":"2500.00",
+                    "kapitali_valuuta":"EUR",
+                    "kapitali_valuuta_tekstina":"euro",
+                    "algus_kpv":"17.11.2014",
+                    "lopp_kpv":null
+                }
+            ],
+            "majandusaastad":[
+                {
+                    "kirje_id":5374971,
+                    "kaardi_piirkond":1,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "maj_aasta_algus":"01.01",
+                    "maj_aasta_lopp":"31.12",
+                    "algus_kpv":"17.11.2014",
+                    "lopp_kpv":null
+                }
+            ],
+            "pohikirjad":[
+                {
+                    "kirje_id":5374970,
+                    "kaardi_piirkond":1,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "kinnitamise_kpv":"17.11.2014",
+                    "muutmise_kpv":null,
+                    "selgitus":null,
+                    "algus_kpv":"17.11.2014",
+                    "lopp_kpv":null,
+                    "sisaldab_erioigusi":false
+                }
+            ],
+            "markused_kaardil":[
+                {
+                    "kirje_id":6135770,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":2,
+                    "veerg_nr":6,
+                    "tyyp":"MARK",
+                    "tyyp_tekstina":"Märkus",
+                    "sisu":"Aadressiandmed on muudetud äriseadustiku § 511¹ alusel.",
+                    "algus_kpv":"08.09.2016",
+                    "lopp_kpv":null
+                }
+            ],
+            "sidevahendid":[
+                {
+                    "kirje_id":7772320,
+                    "liik":"EMAIL",
+                    "liik_tekstina":"Elektronposti aadress",
+                    "sisu":"markentarmo@gmail.com",
+                    "lopp_kpv":null,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":4
+                },
+                {
+                    "kirje_id":9000525936,
+                    "liik":"MOB",
+                    "liik_tekstina":"Mobiiltelefon",
+                    "sisu":"+372 53001100",
+                    "lopp_kpv":null,
+                    "kaardi_piirkond":null,
+                    "kaardi_nr":null,
+                    "kaardi_tyyp":null,
+                    "kande_nr":null
+                }
+            ],
+            "teatatud_tegevusalad":[
+                {
+                    "kirje_id":9000146965,
+                    "emtak_kood":"68311",
+                    "emtak_tekstina":"Kinnisvarabüroode tegevus",
+                    "emtak_versioon":2,
+                    "emtak_versioon_tekstina":null,
+                    "nace_kood":"68.31",
+                    "on_pohitegevusala":true,
+                    "algus_kpv":"12.11.2014",
+                    "lopp_kpv":null
+                }
+            ],
+            "info_majandusaasta_aruannetest":[
+                {
+                    "kirje_id":1845786,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2017",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2017",
+                    "tootajate_arv":"0",
+                    "ettevotja_aadress_aruandes":"Õismäe tee 78-9, Haabersti linnaosa, Tallinn, Harju maakond, 13513",
+                    "tegevusala_emtak_kood":"0",
+                    "tegevusala_emtak_tekstina":"tegevusala puudub",
+                    "tegevusala_emtak_versioon":1,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2003",
+                    "tegevusala_nace_kood":"0"
+                },
+                {
+                    "kirje_id":1845783,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2016",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2016",
+                    "tootajate_arv":"0",
+                    "ettevotja_aadress_aruandes":"Õismäe tee 78-9, Haabersti linnaosa, Tallinn, Harju maakond, 13513",
+                    "tegevusala_emtak_kood":"68311",
+                    "tegevusala_emtak_tekstina":"Kinnisvarabüroode tegevus",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"68.31"
+                },
+                {
+                    "kirje_id":1845781,
+                    "majandusaasta_perioodi_algus_kpv":"17.11.2014",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2015",
+                    "tootajate_arv":"0",
+                    "ettevotja_aadress_aruandes":"Õismäe tee 78-9, Haabersti linnaosa, Tallinn, Harju maakond, 13513",
+                    "tegevusala_emtak_kood":"68311",
+                    "tegevusala_emtak_tekstina":"Kinnisvarabüroode tegevus",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"68.31"
+                }
+            ],
+            "esitab_kasusaajad":true
+        }
+    },
+    {
+        "ariregistri_kood":12652512,
+        "nimi":"001 Kinnisvara OÜ",
+        "yldandmed":{
+            "ettevotteregistri_nr":null,
+            "esmaregistreerimise_kpv":"25.04.2014",
+            "kustutamise_kpv":null,
+            "staatus":"R",
+            "staatus_tekstina":"Registrisse kantud",
+            "piirkond":5,
+            "piirkond_tekstina":"Tartu",
+            "piirkond_tekstina_pikk":"Tartu Maakohtu registriosakond",
+            "evks_registreeritud":null,
+            "evks_registreeritud_kande_kpv":null,
+            "oiguslik_vorm":"OÜ",
+            "oiguslik_vorm_nr":5,
+            "oiguslik_vorm_tekstina":"Osaühing",
+            "oigusliku_vormi_alaliik":null,
+            "oigusliku_vormi_alaliik_tekstina":"",
+            "asutatud_sissemakset_tegemata":true,
+            "loobunud_vorminouetest":null,
+            "on_raamatupidamiskohustuslane":false,
+            "tegutseb":null,
+            "tegutseb_tekstina":"Jah",
+            "staatused":[
+                {
+                    "kaardi_piirkond":1,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "staatus":"R",
+                    "staatus_tekstina":"Registrisse kantud",
+                    "algus_kpv":"25.04.2014"
+                }
+            ],
+            "arinimed":[
+                {
+                    "kirje_id":7060750,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":4,
+                    "sisu":"001 Kinnisvara OÜ",
+                    "algus_kpv":"22.09.2017",
+                    "lopp_kpv":null
+                }
+            ],
+            "aadressid":[
+                {
+                    "kirje_id":7321987,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":5,
+                    "riik":"EST",
+                    "riik_tekstina":"Eesti",
+                    "ehak":"0176",
+                    "ehak_nimetus":"Haabersti linnaosa, Tallinn, Harju maakond",
+                    "tanav_maja_korter":"Õismäe tee 78-9",
+                    "aadress_ads__ads_oid":"ER01373351",
+                    "aadress_ads__adr_id":2182337,
+                    "aadress_ads__ads_normaliseeritud_taisaadress":"Harju maakond, Tallinn, Haabersti linnaosa, Õismäe tee 78-9",
+                    "aadress_ads__ads_normaliseeritud_taisaadress_tapsustus":null,
+                    "aadress_ads__koodaadress":"377840176000003X8000035J54CPR0000",
+                    "aadress_ads__adob_id":"6543897",
+                    "aadress_ads__tyyp":null,
+                    "postiindeks":"13513",
+                    "algus_kpv":"07.12.2017",
+                    "lopp_kpv":null
+                }
+            ],
+            "oiguslikud_vormid":[
+                {
+                    "kirje_id":5180349,
+                    "kaardi_piirkond":1,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "sisu":"OÜ",
+                    "sisu_nr":5,
+                    "sisu_tekstina":"Osaühing",
+                    "algus_kpv":"25.04.2014",
+                    "lopp_kpv":null
+                }
+            ],
+            "kapitalid":[
+                {
+                    "kirje_id":5180353,
+                    "kaardi_piirkond":1,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "kapitali_suurus":"2500.00",
+                    "kapitali_valuuta":"EUR",
+                    "kapitali_valuuta_tekstina":"euro",
+                    "algus_kpv":"25.04.2014",
+                    "lopp_kpv":null
+                }
+            ],
+            "majandusaastad":[
+                {
+                    "kirje_id":5180348,
+                    "kaardi_piirkond":1,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "maj_aasta_algus":"01.01",
+                    "maj_aasta_lopp":"31.12",
+                    "algus_kpv":"25.04.2014",
+                    "lopp_kpv":null
+                }
+            ],
+            "pohikirjad":[
+                {
+                    "kirje_id":7060749,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":4,
+                    "kinnitamise_kpv":"15.09.2017",
+                    "muutmise_kpv":null,
+                    "selgitus":null,
+                    "algus_kpv":"22.09.2017",
+                    "lopp_kpv":null,
+                    "sisaldab_erioigusi":false
+                }
+            ],
+            "markused_kaardil":[
+                {
+                    "kirje_id":6135766,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":3,
+                    "veerg_nr":6,
+                    "tyyp":"MARK",
+                    "tyyp_tekstina":"Märkus",
+                    "sisu":"Aadressiandmed on muudetud äriseadustiku § 511¹ alusel.",
+                    "algus_kpv":"08.09.2016",
+                    "lopp_kpv":null
+                }
+            ],
+            "sidevahendid":[
+                {
+                    "kirje_id":7821463,
+                    "liik":"EMAIL",
+                    "liik_tekstina":"Elektronposti aadress",
+                    "sisu":"markentarmo@gmail.com",
+                    "lopp_kpv":null,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":6
+                },
+                {
+                    "kirje_id":9000528406,
+                    "liik":"MOB",
+                    "liik_tekstina":"Mobiiltelefon",
+                    "sisu":"+372 53001100",
+                    "lopp_kpv":null,
+                    "kaardi_piirkond":null,
+                    "kaardi_nr":null,
+                    "kaardi_tyyp":null,
+                    "kande_nr":null
+                }
+            ],
+            "teatatud_tegevusalad":[
+                {
+                    "kirje_id":9000541084,
+                    "emtak_kood":"53201",
+                    "emtak_tekstina":"Muu posti- ja kulleriteenistus",
+                    "emtak_versioon":2,
+                    "emtak_versioon_tekstina":null,
+                    "nace_kood":"53.20",
+                    "on_pohitegevusala":true,
+                    "algus_kpv":"08.04.2021",
+                    "lopp_kpv":null
+                }
+            ],
+            "info_majandusaasta_aruannetest":[
+                {
+                    "kirje_id":2308302,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2019",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2019",
+                    "tootajate_arv":"0",
+                    "ettevotja_aadress_aruandes":"Õismäe tee 78-9, Haabersti linnaosa, Tallinn, Harju maakond, 13513",
+                    "tegevusala_emtak_kood":"53201",
+                    "tegevusala_emtak_tekstina":"Muu posti- ja kulleriteenistus",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"53.20"
+                },
+                {
+                    "kirje_id":2308144,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2018",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2018",
+                    "tootajate_arv":"0",
+                    "ettevotja_aadress_aruandes":"Õismäe tee 78-9, Haabersti linnaosa, Tallinn, Harju maakond, 13513",
+                    "tegevusala_emtak_kood":"68311",
+                    "tegevusala_emtak_tekstina":"Kinnisvarabüroode tegevus",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"68.31"
+                },
+                {
+                    "kirje_id":2308073,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2017",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2017",
+                    "tootajate_arv":"0",
+                    "ettevotja_aadress_aruandes":"Õismäe tee 78-9, Haabersti linnaosa, Tallinn, Harju maakond, 13513",
+                    "tegevusala_emtak_kood":"68311",
+                    "tegevusala_emtak_tekstina":"Kinnisvarabüroode tegevus",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"68.31"
+                },
+                {
+                    "kirje_id":1872463,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2016",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2016",
+                    "tootajate_arv":"0",
+                    "ettevotja_aadress_aruandes":"Õismäe tee 78-9, Haabersti linnaosa, Tallinn, Harju maakond, 13513",
+                    "tegevusala_emtak_kood":"68311",
+                    "tegevusala_emtak_tekstina":"Kinnisvarabüroode tegevus",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"68.31"
+                },
+                {
+                    "kirje_id":1851956,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2015",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2015",
+                    "tootajate_arv":"0",
+                    "ettevotja_aadress_aruandes":"Õismäe tee 78-9, Haabersti linnaosa, Tallinn, Harju maakond, 13513",
+                    "tegevusala_emtak_kood":"68311",
+                    "tegevusala_emtak_tekstina":"Kinnisvarabüroode tegevus",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"68.31"
+                },
+                {
+                    "kirje_id":1311066,
+                    "majandusaasta_perioodi_algus_kpv":"25.04.2014",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2014",
+                    "tootajate_arv":"0",
+                    "ettevotja_aadress_aruandes":"Õismäe tee 78-9, Tallinna linn, Harju maakond, 13513",
+                    "tegevusala_emtak_kood":"68311",
+                    "tegevusala_emtak_tekstina":"Kinnisvarabüroode tegevus",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"68.31"
+                }
+            ],
+            "esitab_kasusaajad":true
+        }
+    },
+    {
+        "ariregistri_kood":11694365,
+        "nimi":"007 Autohaus osaühing",
+        "yldandmed":{
+            "ettevotteregistri_nr":null,
+            "esmaregistreerimise_kpv":"30.07.2009",
+            "kustutamise_kpv":null,
+            "staatus":"R",
+            "staatus_tekstina":"Registrisse kantud",
+            "piirkond":5,
+            "piirkond_tekstina":"Tartu",
+            "piirkond_tekstina_pikk":"Tartu Maakohtu registriosakond",
+            "evks_registreeritud":null,
+            "evks_registreeritud_kande_kpv":null,
+            "oiguslik_vorm":"OÜ",
+            "oiguslik_vorm_nr":5,
+            "oiguslik_vorm_tekstina":"Osaühing",
+            "oigusliku_vormi_alaliik":null,
+            "oigusliku_vormi_alaliik_tekstina":"",
+            "asutatud_sissemakset_tegemata":false,
+            "loobunud_vorminouetest":null,
+            "on_raamatupidamiskohustuslane":false,
+            "tegutseb":null,
+            "tegutseb_tekstina":"Jah",
+            "staatused":[
+                {
+                    "kaardi_piirkond":1,
+                    "kaardi_nr":1,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "staatus":"R",
+                    "staatus_tekstina":"Registrisse kantud",
+                    "algus_kpv":"30.07.2009"
+                }
+            ],
+            "arinimed":[
+                {
+                    "kirje_id":2775647,
+                    "kaardi_piirkond":2,
+                    "kaardi_nr":3,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "sisu":"007 Autohaus osaühing",
+                    "algus_kpv":"19.11.2009",
+                    "lopp_kpv":null
+                }
+            ],
+            "aadressid":[
+                {
+                    "kirje_id":10280664,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":3,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":8,
+                    "riik":"EST",
+                    "riik_tekstina":"Eesti",
+                    "ehak":"8151",
+                    "ehak_nimetus":"Tartu linn, Tartu linn, Tartu maakond",
+                    "tanav_maja_korter":"Turu tn 34",
+                    "aadress_ads__ads_oid":"ME03595662",
+                    "aadress_ads__adr_id":3047590,
+                    "aadress_ads__ads_normaliseeritud_taisaadress":"Tartu maakond, Tartu linn, Tartu linn, Turu tn 34",
+                    "aadress_ads__ads_normaliseeritud_taisaadress_tapsustus":null,
+                    "aadress_ads__koodaadress":"79793815100000SZP0000B8UO00000000",
+                    "aadress_ads__adob_id":"8669966",
+                    "aadress_ads__tyyp":null,
+                    "postiindeks":"51004",
+                    "algus_kpv":"27.09.2022",
+                    "lopp_kpv":null
+                }
+            ],
+            "oiguslikud_vormid":[
+                {
+                    "kirje_id":2775648,
+                    "kaardi_piirkond":2,
+                    "kaardi_nr":3,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "sisu":"OÜ",
+                    "sisu_nr":5,
+                    "sisu_tekstina":"Osaühing",
+                    "algus_kpv":"19.11.2009",
+                    "lopp_kpv":null
+                }
+            ],
+            "kapitalid":[
+                {
+                    "kirje_id":4305989,
+                    "kaardi_piirkond":2,
+                    "kaardi_nr":3,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":2,
+                    "kapitali_suurus":"2684.00",
+                    "kapitali_valuuta":"EUR",
+                    "kapitali_valuuta_tekstina":"euro",
+                    "algus_kpv":"16.12.2011",
+                    "lopp_kpv":null
+                }
+            ],
+            "majandusaastad":[
+                {
+                    "kirje_id":2775651,
+                    "kaardi_piirkond":2,
+                    "kaardi_nr":3,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "maj_aasta_algus":"01.01",
+                    "maj_aasta_lopp":"31.12",
+                    "algus_kpv":"19.11.2009",
+                    "lopp_kpv":null
+                }
+            ],
+            "pohikirjad":[
+                {
+                    "kirje_id":4834361,
+                    "kaardi_piirkond":2,
+                    "kaardi_nr":3,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":3,
+                    "kinnitamise_kpv":"30.04.2013",
+                    "muutmise_kpv":null,
+                    "selgitus":null,
+                    "algus_kpv":"30.04.2013",
+                    "lopp_kpv":null,
+                    "sisaldab_erioigusi":false
+                }
+            ],
+            "markused_kaardil":[
+                {
+                    "kirje_id":2775654,
+                    "kaardi_piirkond":2,
+                    "kaardi_nr":3,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":1,
+                    "veerg_nr":6,
+                    "tyyp":"MARK",
+                    "tyyp_tekstina":"Märkus",
+                    "sisu":"senine registrikaart asub Harju Maakohtu registriosakonnas",
+                    "algus_kpv":"19.11.2009",
+                    "lopp_kpv":null
+                },
+                {
+                    "kirje_id":2170282,
+                    "kaardi_piirkond":1,
+                    "kaardi_nr":2,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":2,
+                    "veerg_nr":6,
+                    "tyyp":"MARK",
+                    "tyyp_tekstina":"Märkus",
+                    "sisu":"11.11.2009.a. avalduse alusel on dokumendid edastatud Tartu Maakohtu registriosakonnale äriühingu asukoha muudatuse kandmiseks äriregistrisse.",
+                    "algus_kpv":"12.11.2009",
+                    "lopp_kpv":null
+                }
+            ],
+            "sidevahendid":[
+                {
+                    "kirje_id":7744607,
+                    "liik":"EMAIL",
+                    "liik_tekstina":"Elektronposti aadress",
+                    "sisu":"info@007.ee",
+                    "lopp_kpv":null,
+                    "kaardi_piirkond":5,
+                    "kaardi_nr":3,
+                    "kaardi_tyyp":"R",
+                    "kande_nr":6
+                },
+                {
+                    "kirje_id":3000116427,
+                    "liik":"MOB",
+                    "liik_tekstina":"Mobiiltelefon",
+                    "sisu":"+372 55515007",
+                    "lopp_kpv":null,
+                    "kaardi_piirkond":null,
+                    "kaardi_nr":null,
+                    "kaardi_tyyp":null,
+                    "kande_nr":null
+                },
+                {
+                    "kirje_id":9000669241,
+                    "liik":"WWW",
+                    "liik_tekstina":"Interneti WWW aadress",
+                    "sisu":"http://www.007.ee",
+                    "lopp_kpv":null,
+                    "kaardi_piirkond":null,
+                    "kaardi_nr":null,
+                    "kaardi_tyyp":null,
+                    "kande_nr":null
+                }
+            ],
+            "teatatud_tegevusalad":[
+                {
+                    "kirje_id":9000400655,
+                    "emtak_kood":"45111",
+                    "emtak_tekstina":"Sõiduautode ja väikebusside (täismassiga alla 3,5 t) müük",
+                    "emtak_versioon":2,
+                    "emtak_versioon_tekstina":null,
+                    "nace_kood":"45.11",
+                    "on_pohitegevusala":false,
+                    "algus_kpv":"11.02.2019",
+                    "lopp_kpv":null
+                },
+                {
+                    "kirje_id":9000516537,
+                    "emtak_kood":"45321",
+                    "emtak_tekstina":"Mootorsõidukite osade ja lisaseadmete jaemüük",
+                    "emtak_versioon":2,
+                    "emtak_versioon_tekstina":null,
+                    "nace_kood":"45.32",
+                    "on_pohitegevusala":true,
+                    "algus_kpv":"04.11.2020",
+                    "lopp_kpv":null
+                },
+                {
+                    "kirje_id":9000516538,
+                    "emtak_kood":"74901",
+                    "emtak_tekstina":"Muu mujal liigitamata kutse-, teadus- ja tehnikaalane tegevus",
+                    "emtak_versioon":2,
+                    "emtak_versioon_tekstina":null,
+                    "nace_kood":"74.90",
+                    "on_pohitegevusala":false,
+                    "algus_kpv":"04.11.2020",
+                    "lopp_kpv":null
+                },
+                {
+                    "kirje_id":9000645247,
+                    "emtak_kood":"77111",
+                    "emtak_tekstina":"Sõiduautode ja väikebusside (täismassiga alla 3,5t) rentimine ja kasutusrent",
+                    "emtak_versioon":2,
+                    "emtak_versioon_tekstina":null,
+                    "nace_kood":"77.11",
+                    "on_pohitegevusala":false,
+                    "algus_kpv":"01.08.2022",
+                    "lopp_kpv":null
+                }
+            ],
+            "info_majandusaasta_aruannetest":[
+                {
+                    "kirje_id":2486746,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2020",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2020",
+                    "tootajate_arv":"1",
+                    "ettevotja_aadress_aruandes":"",
+                    "tegevusala_emtak_kood":"45321",
+                    "tegevusala_emtak_tekstina":"Mootorsõidukite osade ja lisaseadmete jaemüük",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"45.32"
+                },
+                {
+                    "kirje_id":2235906,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2019",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2019",
+                    "tootajate_arv":"1",
+                    "ettevotja_aadress_aruandes":"",
+                    "tegevusala_emtak_kood":"45321",
+                    "tegevusala_emtak_tekstina":"Mootorsõidukite osade ja lisaseadmete jaemüük",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"45.32"
+                },
+                {
+                    "kirje_id":2029333,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2018",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2018",
+                    "tootajate_arv":"2",
+                    "ettevotja_aadress_aruandes":"",
+                    "tegevusala_emtak_kood":"74901",
+                    "tegevusala_emtak_tekstina":"Muu mujal liigitamata kutse-, teadus- ja tehnikaalane tegevus",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"74.90"
+                },
+                {
+                    "kirje_id":1886676,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2017",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2017",
+                    "tootajate_arv":"2",
+                    "ettevotja_aadress_aruandes":"",
+                    "tegevusala_emtak_kood":"45321",
+                    "tegevusala_emtak_tekstina":"Mootorsõidukite osade ja lisaseadmete jaemüük",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"45.32"
+                },
+                {
+                    "kirje_id":1702798,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2016",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2016",
+                    "tootajate_arv":"2",
+                    "ettevotja_aadress_aruandes":"Fortuuna tn 1, Tartu linn, Tartu linn, Tartu maakond, 50603",
+                    "tegevusala_emtak_kood":"45111",
+                    "tegevusala_emtak_tekstina":"Sõiduautode ja väikebusside (täismassiga alla 3,5 t) müük",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"45.11"
+                },
+                {
+                    "kirje_id":1545455,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2015",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2015",
+                    "tootajate_arv":"2",
+                    "ettevotja_aadress_aruandes":"Fortuuna tn 1, Tartu linn, Tartu maakond, 50603",
+                    "tegevusala_emtak_kood":"45111",
+                    "tegevusala_emtak_tekstina":"Sõiduautode ja väikebusside (täismassiga alla 3,5 t) müük",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"45.11"
+                },
+                {
+                    "kirje_id":1269332,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2014",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2014",
+                    "tootajate_arv":"2",
+                    "ettevotja_aadress_aruandes":"Fortuuna tn 1, Tartu linn, Tartu maakond, 50603",
+                    "tegevusala_emtak_kood":"45111",
+                    "tegevusala_emtak_tekstina":"Sõiduautode ja väikebusside (täismassiga alla 3,5 t) müük",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"45.11"
+                },
+                {
+                    "kirje_id":1211996,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2013",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2013",
+                    "tootajate_arv":"2",
+                    "ettevotja_aadress_aruandes":"Fortuuna tn 1, Tartu linn, Tartu maakond, 50603",
+                    "tegevusala_emtak_kood":"45111",
+                    "tegevusala_emtak_tekstina":"Sõiduautode ja väikebusside (täismassiga alla 3,5 t) müük",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"45.11"
+                },
+                {
+                    "kirje_id":1041199,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2012",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2012",
+                    "tootajate_arv":"2",
+                    "ettevotja_aadress_aruandes":"Fortuuna tn 1, Tartu linn, Tartu maakond, 50603",
+                    "tegevusala_emtak_kood":"46771",
+                    "tegevusala_emtak_tekstina":"Jäätmete ja jääkide hulgikaubandus, taara ja pakendite kokkuost",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"46.77"
+                },
+                {
+                    "kirje_id":885973,
+                    "majandusaasta_perioodi_algus_kpv":"01.01.2011",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2011",
+                    "tootajate_arv":"1",
+                    "ettevotja_aadress_aruandes":"Maarja tee 16, Lepiku küla, Ülenurme vald, Tartu maakond, 61705",
+                    "tegevusala_emtak_kood":"45321",
+                    "tegevusala_emtak_tekstina":"Mootorsõidukite osade ja lisaseadmete jaemüük",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"45.32"
+                },
+                {
+                    "kirje_id":770378,
+                    "majandusaasta_perioodi_algus_kpv":"30.07.2009",
+                    "majandusaasta_perioodi_lopp_kpv":"31.12.2010",
+                    "tootajate_arv":"1",
+                    "ettevotja_aadress_aruandes":"Maarja tee 16, Lepiku küla, Ülenurme vald, Tartu maakond, 61705",
+                    "tegevusala_emtak_kood":"45321",
+                    "tegevusala_emtak_tekstina":"Mootorsõidukite osade ja lisaseadmete jaemüük",
+                    "tegevusala_emtak_versioon":2,
+                    "tegevusala_emtak_versioon_tekstina":"EMTAK 2008",
+                    "tegevusala_nace_kood":"45.32"
+                }
+            ],
+            "esitab_kasusaajad":true
+        }
+    }
+]
